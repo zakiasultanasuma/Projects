@@ -1,0 +1,316 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, p, li, h6{
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+
+  width: 96%;
+  overflow: hidden;
+  margin: 30px auto;
+}
+
+.logo {
+
+  width: 20%;
+  float: left;
+}
+
+.logo img {}
+
+.menu {
+
+  width: 20%;
+  float: right;
+}
+
+.menu ul {
+
+  list-style: none;
+}
+
+.menu ul li {
+
+  float: right;
+}
+
+.menu ul li a {
+
+  text-decoration: none;
+  color: #161616;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.banner {
+  width: 90%;
+  margin: 30px auto;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.title {
+
+  width: 90%;
+  overflow: hidden;
+  margin: 60px auto;
+}
+
+.content {
+
+  width: 60%;
+  float: left;
+}
+
+.content h1 {
+
+  font-size: 28px;
+  font-weight: 500;
+  color: #161616;
+}
+
+.content p {
+
+  margin: 87px;
+  color: #545454;
+}
+
+.view {
+
+  width: 40%;
+  float: right;
+}
+
+.view img {
+
+  width: 100%;
+}
+
+.main_content {
+
+  width: 90%;
+  margin: 80px auto;
+  overflow: hidden;
+}
+
+.project {
+
+  width: 30%;
+  float: left;
+}
+
+.project h1 {
+
+  font-size: 24px;
+  font-weight: 600;
+  color: #161616;
+}
+
+.project h6 {
+
+  margin: 20px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #545454;
+}
+
+.details {
+
+  width: 45%;
+  float: right;
+}
+
+.details h1 {
+
+  color: #161616;
+ 
+  font-weight: 600;
+}
+
+.details p {
+
+  margin: 25px 16px;
+  color: #545454;
+  font-size: 16px;
+}
+
+.product_view {
+
+  width: 86%;
+  margin: 40px auto;
+  overflow: hidden;
+}
+
+.product_1 {
+
+  float: left;
+  width: 32%;
+}
+
+.product_1 img {
+
+  width: 100%;
+}
+
+.product_2 {
+
+  float: right;
+  width: 32%;
+
+
+}
+
+.product_2 img {
+
+  width: 100%;
+}
+
+.product_3 {
+
+  margin: auto;
+  width: 32%;
+}
+
+.product_3 img {
+
+  width: 100%;
+}
+
+.product_gallery {
+  width: 86%;
+  margin: 50px auto;
+  overflow: hidden;
+
+}
+
+.gallery_left {
+  float: left;
+  width: 49%;
+}
+
+.gallery_left img {
+  width: 100%;
+}
+
+.gallery_right {
+  float: right;
+  width: 49%;
+}
+
+.gallery_right img {
+  width: 100%;
+}
+
+.gallery_buttom {
+  width: 100%;
+  float: left;
+  margin: 20px auto;
+}
+
+.gallery_buttom img {
+  width: 100%;
+}
+
+.work {
+  text-align: center;
+  margin-bottom: 150px;
+
+}
+
+.work button {
+  padding: 8px 15px;
+  border: none;
+  border: 1px solid #333;
+  font-size: 16px;
+  background: transparent;
+  font-weight: 500;
+  color: #161616;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+footer {
+
+  margin-bottom: 150px;
+  background-color: white;
+  margin: x;
+}
+
+.footer_content {
+
+  width: 70%;
+  overflow: hidden;
+  margin: 150px;
+}
+
+.touch {
+
+  float: left;
+  width: 40%;
+}
+
+.touch ul {
+  list-style: none;
+}
+
+.touch ul li {
+
+  font-weight: 500;
+  padding: 5px 0;
+}
+
+.touch ul li a {
+
+  color: #999999;
+  font-size: 14px;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.social_icon {
+
+  width: 30%;
+  float: left;
+}
+
+.social_icon ul {
+  list-style: none;
+}
+
+.social_icon ul li {
+  padding: 5px 0;
+}
+
+.social_icon ul li a {
+
+  text-decoration: none;
+  color: #999999;
+  font-size: 13px;
+}
+
+.about_us {
+
+  width: 15%;
+  float: right;
+}
+
+.about_us ul {
+  list-style: none;
+}
+
+.about_us ul li {
+  
+  padding: 5px 0;
+}
+
+.about_us ul li a {
+  color: #999999;
+  text-decoration: none;
+  font-size: 13px;
+}
